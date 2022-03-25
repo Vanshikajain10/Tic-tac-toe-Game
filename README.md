@@ -1,2 +1,4 @@
 # Tic-tac-toe-Game
-![Screenshot (215)](https://user-images.githubusercontent.com/85276516/160057699-c5659d75-3225-44f7-b244-793a67572ada.png)
+![tictactoegame](https://user-images.githubusercontent.com/85276516/160058085-0341753a-6bc9-4a88-bf54-b51cf9a85ab6.png)
+![tictactoe](https://user-images.githubusercontent.com/85276516/160058083-d994fa5c-5bf0-4488-83a8-3c687769c356.png)
+
